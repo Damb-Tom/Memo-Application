@@ -1,1 +1,2 @@
-# Memo-Application
+# Memo App
+Created in Android Studio
