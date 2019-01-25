@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="filterItems">
+        <item>All</item>
+        <item>Really Important</item>
+        <item>Fairly Important</item>
+        <item>Not Important</item>
+    </string-array>
+
+</resources>

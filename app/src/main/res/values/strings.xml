@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Memo App</string>
+    <string name="null_data">NULL</string>
+
+    <!-- Login -->
+    <string name="title_login">Sign in to your account</string>
+    <string name="action_sign_in_short">Sign in</string>
+
+
+    <!-- Registration -->
+    <string name="title_register">Register an account</string>
+    <string name="display_name">Enter Display Name</string>
+    <string name="prompt_email">Enter Email</string>
+    <string name="prompt_password">Enter Password</string>
+    <string name="prompt_password2">Enter Password Again</string>
+    <string name="action_sign_up_short">Sign up</string>
+
+    <!-- Main Memo Activity -->
+    <string name="memo_title">Memos</string>
+    <string name="colours">Colours</string>
+    <string name="add">Add Memo</string>
+    <string name="todo">TODO</string>
+
+</resources>
